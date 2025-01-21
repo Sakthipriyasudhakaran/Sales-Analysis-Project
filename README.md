@@ -18,19 +18,19 @@ create table sales (
     (5, 105, 205, 59999, 'Washing Machine'), 
     (6, 106, 206, 24999, 'Dishwasher'), 
     (7, 107, 207, 14999, 'Vacuum Cleaner'),
-     (8, 108, 208, 44999, 'Laptop'), 
-     (9, 109, 209, 34999, 'Tablet'), 
-     (10, 110, 210, 54999, 'Smartphone'), 
-     (11, 111, 211, 21999, 'Home Theater System'),
-      (12, 112, 212, 26999, 'Gaming Console'), 
-      (13, 113, 213, 31999, 'Smart Watch'), 
-      (14, 114, 214, 41999, 'Digital Camera'), 
-      (15, 115, 215, 51999, 'Printer'), 
-      (16, 116, 216, 61999, 'Scanner'), 
-      (17, 117, 217, 27999, 'Monitor'),
-     (18, 118, 218, 32999, 'Keyboard'), 
-     (19, 119, 219, 42999, 'Mouse'), 
-     (20, 120, 220, 52999, 'Speaker');
+    (8, 108, 208, 44999, 'Laptop'), 
+    (9, 109, 209, 34999, 'Tablet'), 
+    (10, 110, 210, 54999, 'Smartphone'), 
+    (11, 111, 211, 21999, 'Home Theater System'),
+    (12, 112, 212, 26999, 'Gaming Console'), 
+    (13, 113, 213, 31999, 'Smart Watch'), 
+    (14, 114, 214, 41999, 'Digital Camera'), 
+    (15, 115, 215, 51999, 'Printer'), 
+    (16, 116, 216, 61999, 'Scanner'), 
+    (17, 117, 217, 27999, 'Monitor'),
+    (18, 118, 218, 32999, 'Keyboard'), 
+    (19, 119, 219, 42999, 'Mouse'), 
+    (20, 120, 220, 52999, 'Speaker');
 
      select*from sales
 
